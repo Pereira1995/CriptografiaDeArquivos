@@ -4,7 +4,7 @@
 sudo apt install -y ccrypt
 ```
 
-# criptogragar arquivo
+# criptografar arquivo
 
 ```bash
 ccrypt -e teste01.md
@@ -16,7 +16,7 @@ ccrypt -e teste01.md
 ccrypt -d teste01.md.cpt
 ```
 
-# criptografa vários arquivos dentro de uma pasta com a mesma senha
+# criptografar vários arquivos dentro de uma pasta com a mesma senha
 
 ```bash
 ccrypt -e -r teste_file/
@@ -27,7 +27,7 @@ ccrypt -er teste_file/
 
 ```
 
-# decriptografar vários arquivos dentro de uma pasta com a mesma senha
+# descriptografar vários arquivos dentro de uma pasta com a mesma senha
 
 ```bash
 ccrypt -d -r teste_file/
