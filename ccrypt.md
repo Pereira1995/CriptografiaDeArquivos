@@ -37,4 +37,4 @@ ou
 ccrypt -dr teste_file/
 ```
 
-site:<https://ccrypt.sourceforge.net/>
+SITE: <https://ccrypt.sourceforge.net/>
